@@ -1,9 +1,0 @@
-{
-	"env": {
-		"DB_USER": "davron",
-		"DB_PASS": "4bYQ3zQFZgtf6U8",
-		"DB_NAME": "sharedapp",
-		"MAPBOX_KEY":"pk.eyJ1IjoiZGF2cm9uc3VsYXltb25vdiIsImEiOiJja3poanE3aG8xYm80Mm9vY3dzcWc0bms4In0.O0S8BNNFvyvufTbTVZQ7aw",
-		"JWT_SECRET": "loremeyJ1IjoiZGF2cm9uc3VsYXltb25vdiIsImEiOiJ"
-	}
-}
